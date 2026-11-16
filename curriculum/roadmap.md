@@ -6,7 +6,7 @@ Status values: `not started` · `learning` · `revise` · `strong`
 ## Phase 0 — Orientation (≈ 2 weeks)
 | # | Module | Status |
 |---|---|---|
-| 0.1 | How medicine is organised (pre-clinical → para-clinical → clinical); the MBBS/NEET structure; the language of medicine — roots, prefixes, suffixes | not started |
+| 0.1 | How medicine is organised (pre-clinical → para-clinical → clinical); the MBBS/NEET structure; the language of medicine — roots, prefixes, suffixes | learning |
 | 0.2 | Levels of organisation: cell → tissue → organ → system; homeostasis and feedback loops | not started |
 | 0.3 | Reading a lab report: CBC, LFT, KFT, lipid profile, HbA1c, units and reference ranges | not started |
 

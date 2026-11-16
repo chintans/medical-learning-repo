@@ -1,11 +1,13 @@
 {
-  "session": 0,
+  "session": 1,
   "phase": "0",
   "module": "0.1",
-  "streak": 0,
-  "last_session_date": null,
+  "streak": 1,
+  "last_session_date": "2026-11-16",
   "last_mixed_test_session": null,
   "last_journal_drill_session": null,
-  "pending": [],
-  "diagnostic_done": false
+  "pending": ["2026-11-16"],
+  "diagnostic_done": false,
+  "diagnostic_delivered": "2026-11-16",
+  "notes": "Diagnostic was delivered with Session 1. Grade both when answers arrive; record the calibration in .tutor/notes.md."
 }
