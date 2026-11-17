@@ -1,13 +1,14 @@
 {
-  "session": 1,
+  "session": 2,
   "phase": "0",
   "module": "0.1",
-  "streak": 1,
-  "last_session_date": "2026-11-16",
+  "streak": 2,
+  "streak_note": "Counts sessions delivered on consecutive scheduled runs; no answers received yet for Sessions 1-2.",
+  "last_session_date": "2026-11-17",
   "last_mixed_test_session": null,
   "last_journal_drill_session": null,
-  "pending": ["2026-11-16"],
+  "pending": ["2026-11-16", "2026-11-17"],
   "diagnostic_done": false,
   "diagnostic_delivered": "2026-11-16",
-  "notes": "Diagnostic was delivered with Session 1. Grade both when answers arrive; record the calibration in .tutor/notes.md."
+  "notes": "Diagnostic delivered with Session 1, still unanswered. Two sessions pending: if still pending next run, make Session 3 lighter and review-heavy (per protocol) and do not advance to 0.2 until 0.1 has quiz data."
 }
