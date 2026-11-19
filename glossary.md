@@ -40,3 +40,10 @@
 | hyster- | uterus | Greek *hystera* | hysterectomy; "uterine" is the Latin adjective |
 | stomat- | mouth | Greek *stoma* | stomatitis (mouth ulcers); "oral" is the Latin adjective |
 | arthr- / my- | joint / muscle | Greek *arthron* / *mys* | arthritis, arthralgia, myalgia |
+| dys- | difficult, painful or abnormal | Greek *dys-* (bad) | dysuria, dyspnoea, dyspepsia |
+| a- / an- | without, absence of | Greek *a-/an-* | anaemia, apnoea, anuria |
+| -uria | condition of the urine | Greek *ouron* (urine) | haematuria, dysuria, anuria (urine reports, case sheets) |
+| -pnoea / -pnea | breathing | Greek *pnoē* (breath) | dyspnoea (breathlessness), apnoea (sleep apnoea), tachypnoea |
+| -rrhoea / -rrhea | flow, discharge | Greek *rhoia* (flow) | diarrhoea, rhinorrhoea (runny nose) |
+| O/E | on examination | English clinical shorthand | "O/E: febrile, tachycardia" on case sheets |
+| T2DM, HTN | type 2 diabetes mellitus; hypertension (high blood pressure) | Greek *diabētēs* (passing through) + Latin *mellitus* (honeyed); hyper- + Latin *tensio* | "k/c/o T2DM, HTN" on Indian case sheets |

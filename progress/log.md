@@ -4,3 +4,4 @@
 |---|---|---|---|---|---|
 | 1 | 2026-11-16 | 0.1 How medicine is organised + medical word-building (+ diagnostic) | Lesson + diagnostic | pending | – |
 | 2 | 2026-11-17 | 0.1 part 2: body-system roots, Latin vs Greek pairs, -oma / -algia | Lesson | pending | – |
+| 3 | 2026-11-19 | 0.1 part 3: review + decoding a discharge summary (dys-, a-/an-, -uria, -pnoea, -rrhoea, O/E) | Lesson (light, review-heavy: 2 sessions pending) | pending | – |
