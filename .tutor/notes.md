@@ -18,3 +18,9 @@
 - Hook: the 4-bucket sort (symptom / finding / diagnosis / action) on a fictional Indian discharge summary. It turns vocabulary into reasoning and shows what's unexplained (the incidental hepatomegaly), which feeds goal 2 (asking good questions). Only 5 new parts + O/E.
 - Q6 tests whether he notices there's NO diagnosis line in the vignette. Q2 tests reading a negative ("no anuria").
 - Next run: if S1–S3 are still all pending, don't add new material. Make S4 a short review set (warm-up + 5 MCQs drawn from S1–S3) and say plainly that I can't pace him without answers. Once any answers arrive: grade, and if 0.1 ≥75% start 0.2 (homeostasis/feedback).
+
+## 2026-11-21: Session 4
+- S1–S3 all still unanswered (3 pending). Followed the S3 plan: no new module, no new terms (only angi- as a hint). Session = recap card + 3 warm-up + 5 review MCQs (3 vignettes) + 1 short answer.
+- Mixed test: not eligible (first 4 sessions); no draw. Journal drill: not eligible (Phase 0).
+- Pacing change to reduce friction: told him S4 alone is enough. Gate: ≥6/8 MCQs → move to 0.2. 5/8 → one short consolidation then 0.2. ≤4/8 → 0.1 "revise". Was candid that I can't pace him without answers.
+- Possible cause of silence: each session may feel too long, or the reply format too heavy. If still silent next run, send a ~5-minute nudge (3 questions only) instead of a full session, and keep S4 as the gate. Don't keep piling up full sessions.

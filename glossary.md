@@ -47,3 +47,4 @@
 | -rrhoea / -rrhea | flow, discharge | Greek *rhoia* (flow) | diarrhoea, rhinorrhoea (runny nose) |
 | O/E | on examination | English clinical shorthand | "O/E: febrile, tachycardia" on case sheets |
 | T2DM, HTN | type 2 diabetes mellitus; hypertension (high blood pressure) | Greek *diabētēs* (passing through) + Latin *mellitus* (honeyed); hyper- + Latin *tensio* | "k/c/o T2DM, HTN" on Indian case sheets |
+| angi(o)- | blood vessel | Greek *angeion* (vessel) | angiography, angioplasty (cardiology reports) |
