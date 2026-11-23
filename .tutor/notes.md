@@ -30,3 +30,4 @@
 - Asked him directly what is getting in the way (length, timing, reply format).
 - Mixed test: first eligible run. Rule set: p = min(1, sessions since last test / 8). p = 0.625, draw 0.4395 → hit, but deferred (4 pending; protocol's "lighter when 2+ pending" wins, and there are no weak areas to weight a test on). Fresh draw next eligible run.
 - Next run: if still silent, don't write another session. Send a one-line check-in only, log it as skipped, and keep S4 as the gate. Once answers arrive: grade everything at once, decide 0.2 from S4.
+- Slip: the push notification's example reply ("1C 2A 3D") was the real S5 key. Told him; S5 is practice only, not scored. In future, use example letters that differ from the key in every position, and check them against the key before sending.

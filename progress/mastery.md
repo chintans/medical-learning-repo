@@ -8,7 +8,7 @@
 | 0.1 Body-system roots, Latin vs Greek pairs, -oma / -algia | 2 | pending | – | learning |
 | 0.1 Symptom/finding/diagnosis/action sorting; dys-, a-/an-, -uria, -pnoea, -rrhoea | 3 | pending | – | learning |
 | 0.1 Checkpoint (all of 0.1; gate to 0.2 = ≥6/8 MCQs) | 4 | pending | – | learning |
-| 0.1 Nudge (dys-/-pnoea, an-/-uria, negative findings) | 5 | pending | – | learning |
+| 0.1 Nudge (dys-/-pnoea, an-/-uria, negative findings) | 5 | practice only (not scored: answers leaked in notification) | – | learning |
 
 ## Weak areas
 _None yet (no answers received for Sessions 1–5)._
