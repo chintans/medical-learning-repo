@@ -1,27 +1,32 @@
 {
-  "session": 4,
+  "session": 5,
   "phase": "0",
   "module": "0.1",
-  "streak": 4,
-  "streak_note": "Counts sessions delivered on consecutive scheduled runs; no answers received yet for Sessions 1-4.",
-  "last_session_date": "2026-11-21",
+  "streak": 5,
+  "streak_note": "Counts sessions delivered on consecutive scheduled runs; no answers received yet for Sessions 1-5.",
+  "last_session_date": "2026-11-23",
   "last_mixed_test_session": null,
   "last_journal_drill_session": null,
   "pending": [
     "2026-11-16",
     "2026-11-17",
     "2026-11-19",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-23"
   ],
   "diagnostic_done": false,
   "diagnostic_delivered": "2026-11-16",
-  "notes": "Session 4 was a no-new-material checkpoint (recap card + 8 review MCQs from S1-S3) because S1-S3 were all pending. Told Chintan that answering S4 alone is enough: >=6/8 MCQs moves him to 0.2. If S1-S4 are still all pending next run, do NOT write another full session: send a very short 'nudge' session (3 warm-up questions only, ~5 min) and keep pointing to S4 as the gate to 0.2.",
+  "notes": "Session 5 was a 5-minute nudge (3 MCQs, no new material) because S1-S4 were all pending. Session 4 stays the gate to 0.2 (>=6/8). Asked him what is getting in the way. If S1-S5 are still all pending next run: do not write another session; send only a one-line check-in pointing to S4/S5, and record it as a skipped session in the log.",
   "mixed_test_check": {
-    "session": 4,
-    "result": "not eligible (protocol: no mixed test in the first 4 sessions); no draw made"
+    "session": 5,
+    "rule": "p = min(1, sessions_since_last_test/8); eligible from session 5; never two in a row",
+    "sessions_since_last_test": 5,
+    "p": 0.625,
+    "draw": 0.43950654766368635,
+    "result": "draw < p (hit) but DEFERRED: 4 sessions pending, protocol requires a lighter review-heavy session, and a mixed test can't be weighted to weak areas with no data. Make a fresh draw next eligible run."
   },
   "journal_drill_check": {
-    "session": 4,
+    "session": 5,
     "result": "not eligible (journal drills start in Phase 1)"
   }
 }

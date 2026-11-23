@@ -24,3 +24,9 @@
 - Mixed test: not eligible (first 4 sessions); no draw. Journal drill: not eligible (Phase 0).
 - Pacing change to reduce friction: told him S4 alone is enough. Gate: ≥6/8 MCQs → move to 0.2. 5/8 → one short consolidation then 0.2. ≤4/8 → 0.1 "revise". Was candid that I can't pace him without answers.
 - Possible cause of silence: each session may feel too long, or the reply format too heavy. If still silent next run, send a ~5-minute nudge (3 questions only) instead of a full session, and keep S4 as the gate. Don't keep piling up full sessions.
+
+## 2026-11-23: Session 5
+- S1–S4 all still unanswered (4 pending). Followed the S4 plan: a ~5-minute nudge with 3 MCQs (2 vignettes), no new terms, no short answer. Deliberate deviation from the 5-MCQ + short-answer format to lower the bar to replying. S4 stays the gate to 0.2.
+- Asked him directly what is getting in the way (length, timing, reply format).
+- Mixed test: first eligible run. Rule set: p = min(1, sessions since last test / 8). p = 0.625, draw 0.4395 → hit, but deferred (4 pending; protocol's "lighter when 2+ pending" wins, and there are no weak areas to weight a test on). Fresh draw next eligible run.
+- Next run: if still silent, don't write another session. Send a one-line check-in only, log it as skipped, and keep S4 as the gate. Once answers arrive: grade everything at once, decide 0.2 from S4.
