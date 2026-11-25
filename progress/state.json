@@ -3,7 +3,7 @@
   "phase": "0",
   "module": "0.1",
   "streak": 5,
-  "streak_note": "Counts sessions delivered on consecutive scheduled runs; no answers received yet for Sessions 1-5.",
+  "streak_note": "Counts sessions delivered on consecutive scheduled runs; no answers received yet for Sessions 1-5. 2026-11-25 run skipped (check-in only), so streak not incremented.",
   "last_session_date": "2026-11-23",
   "last_mixed_test_session": null,
   "last_journal_drill_session": null,
@@ -16,17 +16,22 @@
   ],
   "diagnostic_done": false,
   "diagnostic_delivered": "2026-11-16",
-  "notes": "Session 5 was a 5-minute nudge (3 MCQs, no new material) because S1-S4 were all pending. Session 4 stays the gate to 0.2 (>=6/8). Asked him what is getting in the way. If S1-S5 are still all pending next run: do not write another session; send only a one-line check-in pointing to S4/S5, and record it as a skipped session in the log.",
+  "notes": "2026-11-25: S1-S5 still all pending, so per plan no new session was written; sent a one-line check-in pointing to S4 (the gate to 0.2, >=6/8) and S5. Next run: if answers have arrived, grade all, decide 0.2 from S4. If still silent, send another short check-in only (no new session) and consider proposing a lighter cadence (e.g. 2x/week, 3 MCQs each).",
   "mixed_test_check": {
     "session": 5,
     "rule": "p = min(1, sessions_since_last_test/8); eligible from session 5; never two in a row",
     "sessions_since_last_test": 5,
     "p": 0.625,
     "draw": 0.43950654766368635,
-    "result": "draw < p (hit) but DEFERRED: 4 sessions pending, protocol requires a lighter review-heavy session, and a mixed test can't be weighted to weak areas with no data. Make a fresh draw next eligible run."
+    "result": "draw < p (hit) but DEFERRED: 4 sessions pending, protocol requires a lighter review-heavy session, and a mixed test can't be weighted to weak areas with no data. Make a fresh draw next eligible run.",
+    "note_2026-11-25": "No session written, so no draw made this run. Fresh draw at the next run that writes a session."
   },
   "journal_drill_check": {
     "session": 5,
     "result": "not eligible (journal drills start in Phase 1)"
-  }
+  },
+  "last_run_date": "2026-11-25",
+  "skipped_runs": [
+    "2026-11-25"
+  ]
 }

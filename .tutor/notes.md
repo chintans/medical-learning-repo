@@ -31,3 +31,7 @@
 - Mixed test: first eligible run. Rule set: p = min(1, sessions since last test / 8). p = 0.625, draw 0.4395 → hit, but deferred (4 pending; protocol's "lighter when 2+ pending" wins, and there are no weak areas to weight a test on). Fresh draw next eligible run.
 - Next run: if still silent, don't write another session. Send a one-line check-in only, log it as skipped, and keep S4 as the gate. Once answers arrive: grade everything at once, decide 0.2 from S4.
 - Slip: the push notification's example reply ("1C 2A 3D") was the real S5 key. Told him; S5 is practice only, not scored. In future, use example letters that differ from the key in every position, and check them against the key before sending.
+
+## 2026-11-25: skipped run (check-in only)
+- S1–S5 all still unanswered (5 pending). Followed the S5 plan: no new session file, no key, no glossary change. Sent a one-line check-in pointing to S4 (gate) and S5, logged as skipped. No mixed-test draw (no session written).
+- Next run: if answers arrive, grade everything at once and decide 0.2 from S4. If still silent, another short check-in only, and offer a lighter cadence (e.g. twice a week, 3 MCQs) rather than adding material he isn't doing.
