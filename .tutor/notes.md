@@ -35,3 +35,10 @@
 ## 2026-11-25: skipped run (check-in only)
 - S1–S5 all still unanswered (5 pending). Followed the S5 plan: no new session file, no key, no glossary change. Sent a one-line check-in pointing to S4 (gate) and S5, logged as skipped. No mixed-test draw (no session written).
 - Next run: if answers arrive, grade everything at once and decide 0.2 from S4. If still silent, another short check-in only, and offer a lighter cadence (e.g. twice a week, 3 MCQs) rather than adding material he isn't doing.
+
+## 2026-11-27: skipped run (second check-in)
+- S1–S5 still unanswered (6 runs, no reply at all). Followed the 11-25 plan: no new session, no key, no glossary change, no mixed-test draw.
+- Likely friction: each run is a fresh chat session, so he may not realise he can reply to any of them, or that he can type answers straight into the "Your answers" section on GitHub (I'll pick them up on the next run, per CLAUDE.md step 2). Said both explicitly.
+- Offered: lighter cadence (2x/week, 3 MCQs) or pausing the scheduled task. Didn't change the task myself — needs his decision.
+- Avoided example answer letters in the message (S4 key is B B A / C A B A B; no letters given).
+- Next run: if answers arrive (chat or GitHub file), grade all, decide 0.2 from S4. If still silent, a one-line check-in only.

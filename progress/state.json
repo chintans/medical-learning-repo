@@ -16,7 +16,7 @@
   ],
   "diagnostic_done": false,
   "diagnostic_delivered": "2026-11-16",
-  "notes": "2026-11-25: S1-S5 still all pending, so per plan no new session was written; sent a one-line check-in pointing to S4 (the gate to 0.2, >=6/8) and S5. Next run: if answers have arrived, grade all, decide 0.2 from S4. If still silent, send another short check-in only (no new session) and consider proposing a lighter cadence (e.g. 2x/week, 3 MCQs each).",
+  "notes": "2026-11-27: S1-S5 still all pending (6th run with no reply). Second check-in only, no new session. Offered three options: (a) answer S4 by replying in chat OR by typing answers into the 'Your answers' section of the GitHub file; (b) lighter cadence (2x/week, 3 MCQs); (c) pause the scheduled task until he's ready. Scheduled task NOT changed (needs his say). Next run: if still silent, check-in only again; do not add material.",
   "mixed_test_check": {
     "session": 5,
     "rule": "p = min(1, sessions_since_last_test/8); eligible from session 5; never two in a row",
@@ -24,14 +24,16 @@
     "p": 0.625,
     "draw": 0.43950654766368635,
     "result": "draw < p (hit) but DEFERRED: 4 sessions pending, protocol requires a lighter review-heavy session, and a mixed test can't be weighted to weak areas with no data. Make a fresh draw next eligible run.",
-    "note_2026-11-25": "No session written, so no draw made this run. Fresh draw at the next run that writes a session."
+    "note_2026-11-25": "No session written, so no draw made this run. Fresh draw at the next run that writes a session.",
+    "note_2026-11-27": "No session written, so no draw made this run."
   },
   "journal_drill_check": {
     "session": 5,
     "result": "not eligible (journal drills start in Phase 1)"
   },
-  "last_run_date": "2026-11-25",
+  "last_run_date": "2026-11-27",
   "skipped_runs": [
-    "2026-11-25"
+    "2026-11-25",
+    "2026-11-27"
   ]
 }
